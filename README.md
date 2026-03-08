@@ -1,5 +1,3 @@
-# heart-attack-predictor
-ML model predicting heart attack risk using SVM, KNN and Logistic Regression with full EDA pipeline
 # ❤️ Heart Attack Prediction
 
 A machine learning project that predicts heart attack risk based on patient clinical data. The project covers the full ML pipeline — from exploratory data analysis to model training, hyperparameter tuning, and a saved deployment-ready pipeline.
